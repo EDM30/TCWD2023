@@ -14,12 +14,16 @@ h2 {
     color: red;
 }
 
-h2 + p :hover {
+p :hover {
 color: #AA4139;
 text-align: center;
 border: 5px solid rgba(255, 176, 170, 0.5);
 cursor: pointer;
 
+}
+
+img {
+    float: left;
 }
 
 p {
