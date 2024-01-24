@@ -1,15 +1,15 @@
 // Create an object and an array which we will use in our facebook exercise. 
-
+var object = 
 // 1. Create an object that has properties "username" and "password". Fill those values in with strings.
 {
-	username: "andrei",
+	username: "emerson",
 	password: "supersecret"
 }
 
 // 2. Create an array which contains the object you have made above and name the arry "database"
 var database = [
 	{
-		username: "andrei",
+		username: "emerson",
 		password: "supersecret"
 	}
 ];
